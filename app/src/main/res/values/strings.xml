@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MatchScheduleKotlin</string>
+    <string name="shots">Pemain</string>
+    <string name="goaler">Pencetak goal</string>
+    <string name="goalkeeper">Penjaga Gawang</string>
+    <string name="defense">Pertahanan</string>
+    <string name="midfield">Bagian Tengah</string>
+    <string name="forward">Penyerang</string>
+    <string name="substitutes">Pengganti</string>
+    <string name="home_badge">home_badge</string>
+    <string name="away_badge">away_badge</string>
+    <string name="vs">VS</string>
+    <string name="favorite">Favorite</string>
+    <string name="fav_matches">Favorite Matches</string>
+    <string name="hapus_match">Hapus pertandingan dari list</string>
+    <string name="remove_match_error">Tidak bisa menghapus pertandingan ini dari list favorit</string>
+    <string name="error_add_match">Tidak bisa di favoritkan!</string>
+    <string name="add_match">Tertambah ke favorit!</string>
+    <string name="alert_loading">Tunggu, dan coba lagi!</string>
+    <string name="fav">Favorite</string>
+</resources>
